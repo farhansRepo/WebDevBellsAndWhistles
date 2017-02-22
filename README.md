@@ -13,3 +13,4 @@ Test Repository of Web Development Technologies
 - MERN Stack
 - WISC Stack
 - Spring MVC
+- DJango
